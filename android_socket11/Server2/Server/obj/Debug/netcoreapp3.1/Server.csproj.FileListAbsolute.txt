@@ -1,0 +1,59 @@
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\App.g.cs
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server_MarkupCompile.cache
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server_MarkupCompile.lref
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server.g.resources
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\USER\Desktop\HCI\socket\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\USER\Desktop\HCI\socket\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\USER\Desktop\HCI\socket\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\USER\Desktop\HCI\socket\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\USER\Desktop\HCI\socket\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\USER\Desktop\HCI\socket\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\USER\Desktop\HCI\socket\Server\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\HCI\socket\Server\Server\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\USER\Desktop\HCI\socket\Server\Server\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\USER\Desktop\HCI\socket\Server\Server\obj\Debug\netcoreapp3.1\Server_MarkupCompile.cache
+C:\Users\USER\Desktop\HCI\socket\Server\Server\obj\Debug\netcoreapp3.1\Server_MarkupCompile.lref
+C:\Users\USER\Desktop\HCI\socket\Server\Server\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\USER\Desktop\HCI\socket\Server\Server\obj\Debug\netcoreapp3.1\Server.g.resources
+C:\Users\USER\Desktop\HCI\socket\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\HCI\socket\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\USER\Desktop\HCI\socket\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\HCI\socket\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\USER\Desktop\HCI\socket\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\USER\Desktop\HCI\socket\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\USER\Desktop\HCI\socket\Server\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\HCI\socket\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\obj\Debug\netcoreapp3.1\Server_MarkupCompile.cache
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\obj\Debug\netcoreapp3.1\Server_MarkupCompile.lref
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\obj\Debug\netcoreapp3.1\Server.g.resources
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\USER\Desktop\HCI\android_socket\Server2\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache

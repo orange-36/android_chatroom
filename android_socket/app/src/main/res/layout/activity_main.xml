@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="248dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="290dp"
+            android:layout_height="52dp"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout1">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="156dp"
+            android:layout_height="58dp"
+            android:text="名字" />
+
+        <EditText
+            android:id="@+id/editTextTextPersonName"
+            android:layout_width="224dp"
+            android:layout_height="55dp"
+            android:layout_marginLeft="31dp"
+            android:layout_toRightOf="@+id/textView2"
+            android:ems="10"
+            android:hint="Name"
+            android:inputType="textPersonName"
+            android:text="apple" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="157dp"
+            android:layout_height="57dp"
+            android:layout_below="@+id/textView2"
+            android:layout_marginTop="35dp"
+            android:text="IP" />
+
+        <EditText
+            android:id="@+id/editTextTextPersonName2"
+            android:layout_width="224dp"
+            android:layout_height="65dp"
+            android:layout_below="@+id/editTextTextPersonName"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="36dp"
+            android:layout_toRightOf="@+id/textView3"
+            android:ems="10"
+            android:hint="IP"
+            android:inputType="textPersonName"
+            android:text="10.0.2.2" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="157dp"
+            android:layout_height="57dp"
+            android:layout_below="@+id/textView3"
+            android:layout_marginTop="35dp"
+            android:text="Port" />
+
+        <EditText
+            android:id="@+id/editTextTextPersonName4"
+            android:layout_width="224dp"
+            android:layout_height="65dp"
+            android:layout_below="@+id/editTextTextPersonName"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="132dp"
+            android:layout_toRightOf="@+id/textView4"
+            android:ems="10"
+            android:hint="Port"
+            android:inputType="textPersonName"
+            android:text="20001" />
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout2"
+        android:layout_marginTop="67dp"
+        android:onClick="send"
+        android:text="送出" />
+
+</RelativeLayout>

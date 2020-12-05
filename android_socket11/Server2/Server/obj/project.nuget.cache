@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E+0hCtHeRZGAs7YuDGucQtYYjr3iGWrgC1RVM9LYFE3PJfXpjGPP25kPc7Y4fxYD/t0XKXQQX/teN/tuLI5BwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\HCI\\android_socket\\Server2\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
